@@ -1,0 +1,141 @@
+* Français
+
+
+French resources.
+
+** Vocabulary
+
+|------------------+----------------------|
+| La salle         | The Gym              |
+| Toléde           | Toledo               |
+| L'épanouissement | Personal development |
+| Echec            | Fracaso              |
+| Fracas           | Echec                |
+| Sépanouir        | Personal dev         |
+| Du stop          | Hitchhiking          |
+| Rebondir         | Bounce back          |
+| Se Moquer        |                      |
+| Cousin           |                      |
+| Coussin          | Cushion              |
+
+*** Examples
+Sans que les autres moquent de nous.
+
+** Grammar
+
+*** Imperative
+Does not use the subject.
+*** Questions
+3 types:
+1. Cést un cours regulier? [with tone]
+2. Est-ce [Reverse order]
+3. Est-ce que cést?
+
+*** Verbs
+In the past, avoir is used for prenominal and movement.
+Etre.
+
+*** Relative pronouns
+*** Indirect object pronouns
+Lui, leur
+**** The pronoun y
+When y replaces a prepositional phrase that does *not* begin with *de*.
+
+- Je vais *a la gare*
+  J'y vais
+- Elle est *dans le salon*
+  Elle y est
+- Elle met l'argent *sur la table*
+  Elle y met l'argent.
+
+When y stands for a thing or idea and follows a verb which requires *à*, it is translate by it or them.
+
+- Il repond *a le lettre*
+  Il y repond
+- Il obeit aux lois
+  Il y obeit.
+
+
+**** Qui, que, dont, ou
+
+- Qui with subject and que with direct object.
+
+- Dont with phrases using the preposition "de". As in with parler, voler.
+La femme *de qui* nous parlons.
+La femme dont nous parlons.
+
+- Ou (used with place or time)
+
+-
+
+**** Examples
+Je pense que le film qui sort la semaine prochain sera un echec.
+
+    Je – Pronoun (PRON)
+    pense – Verb (VERB)
+    que – Subordinating conjunction (SCONJ)
+    le – Determiner (DET)
+    film – Noun (NOUN)
+    qui – Relative pronoun (PRON)
+    sort – Verb (VERB)
+    la – Determiner (DET)
+    semaine – Noun (NOUN)
+    prochaine – Adjective (ADJ)
+    sera – Verb (VERB)
+    un – Determiner (DET)
+    échec – Noun (NOUN)
+
+So, the full sentence with POS tags would be:
+
+Je (PRON) pense (VERB) que (SCONJ) le (DET) film (NOUN) qui (PRON) sort (VERB) la (DET) semaine (NOUN) prochaine (ADJ) sera (VERB) un (DET) échec (NOUN).
+
+*** Countries
+
+| Feminine      | Masculine  |
+| En Angleterre | a Cuba     |
+| En France     | au Mexique |
+| En Espagne    |            |
+
+If it starts with a Vowel: En Iraq
+
+*** Travel
+En (adentro) eg. train, avion
+A (exterior) eg. Velo, bateau
+
+*** When
+Le matin, Le weekend: witout extra prepostions.
+
+** Pronouncation
+
+ou /u/
+
+Pay~s~
+
+travaille | travaille
+
+Sampa to IPA
+
+|           | IPA     | Sampa         |                         |
+|-----------+---------+---------------+-------------------------|
+| travaille | tɾavajə | t R a v a j e |                         |
+| Voyage    |         |               | Don't pronounce final e |
+| Fermaient | Ferme   |               |                         |
+
+- There are never 2 consonants at the end of a word.
+- Plus only pronounce the final s when it's about addition.
+
+
+*** Third person of verb such as ent not pronouced.
+** Resources
+
+France Inter
+Inspire 4
+
+
+
+* Misc
+J'ai besoin de
+J'ai peur de
+J'ai envie de
+
+Le Cual = qui ?
