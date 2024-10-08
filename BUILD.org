@@ -1,0 +1,6 @@
+Build html
+#+begin_src shell
+pandoc -f markdown+lhs -t html grammar/src/City.lhs  --css style.css -s --metadata title="City prepositions"> city.html
+#+end_src
+
+#+RESULTS:
